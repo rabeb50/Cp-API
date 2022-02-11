@@ -1,0 +1,22 @@
+Container{
+  margin: 1rem;
+}
+.Containerapp{
+  margin-left: 10% !important;
+ 
+}
+h3{
+  color:coral;
+
+}
+h4{
+  color: antiquewhite;
+}
+h5{
+  color:whitesmoke;
+}
+h4,h3,h5,p{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
